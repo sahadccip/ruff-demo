@@ -1,1 +1,1 @@
-nano main.py
+print("Hello")
